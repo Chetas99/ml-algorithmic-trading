@@ -20,7 +20,7 @@ To get started with the Algorithmic Trading Framework, follow these steps:
 
 ## Usage
 
-To use the framework, navigate to the examples directory and run the Python scripts provided:
+To use the framework, navigate to the implementation directory and run the Python scripts provided:
 
 
 Modify and extend these scripts to develop and test your own trading strategies.
